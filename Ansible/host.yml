@@ -1,7 +1,0 @@
-localhost ansible_connection=local
-
-[Server]
-localhost
-
-[Server:vars]
-ansible_sudo_pass=nasri

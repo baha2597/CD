@@ -1,4 +1,4 @@
 ---
 # tasks file for build
 - name: build app
-  command: /usr/local/bin/ng build --prod
+  shell: /usr/local/bin/ng build --prod:
